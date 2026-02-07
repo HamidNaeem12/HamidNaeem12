@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamidNaeem12
+- 👋 Hi, I’m @Muhammad Hamid Naeem
 - 👀 I’m interested in PHYTON
 - 🌱 I’m currently learning PHYTON
 - 💞️ I’m looking to collaborate on PHYTON
