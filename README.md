@@ -1,15 +1,20 @@
+<div align="center">
 
+# Muhammad Hamid Naeem
 
+**AI Governance & Legal Tech · LL.B (Hons) + B.S. Data Science · Published Author**
 
-# Hi, I'm Muhammad Hamid Naeem 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidnaeemadvocate)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://hamidnaeem.substack.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=hamidnaeem&color=7F77DD&style=flat)](https://github.com/hamidnaeem)
 
-**AI Governance & Legal Tech | LL.B + Data Science | Published Author**
-
-> *Most law students don't know Python. Most data scientists don't know constitutional law. I'm building at that intersection — deliberately.*
+</div>
 
 ---
 
-## 🧭 What I'm About
+> *Most law students don't know Python. Most data scientists don't know constitutional law.*
+> *I'm building at that intersection — deliberately.*
 
 I'm pursuing **LL.B (Hons)** at GCUF and a **B.S. in Data Science** at Virtual University of Pakistan — because the next generation of AI regulation, legal tech, and public policy will be written by people who understand both systems.
 
@@ -17,11 +22,13 @@ I'm pursuing **LL.B (Hons)** at GCUF and a **B.S. in Data Science** at Virtual U
 
 ## 🚀 Highlights
 
-- 📖 **Published Author** — *Your First Legal Connection* (97 pages, Amazon Kindle & Paperback)
-- ⚖️ **Founder** — [Veritas & Vows](https://www.linkedin.com/in/hamidnaeemadvocate), a legal knowledge platform with 570+ professionals in under 9 months
-- 🌍 **Interned across 4 jurisdictions** — Pakistan, USA, India & UAE (all within first 2 years of law school)
-- 📜 **Co-authored AI governance policy docs** — cross-jurisdictional analysis of US & EU law
-- 🎓 **Certified** by Google (Data Analytics, Prompting Essentials) & McKinsey & Co.
+| | |
+|---|---|
+| 📖 **Published Author** | *Your First Legal Connection* — 97 pages, Amazon Kindle & Paperback |
+| ⚖️ **Founder · Veritas & Vows** | Legal knowledge platform · 570+ professionals in under 9 months |
+| 🌍 **4 Jurisdictions** | Interned in Pakistan, USA, India & UAE within first 2 years of law school |
+| 📜 **AI Policy Co-Author** | Cross-jurisdictional analysis of US & EU AI governance frameworks |
+| 🎓 **Certified** | Google (Data Analytics, Prompting Essentials) · McKinsey & Co. |
 
 ---
 
@@ -33,29 +40,39 @@ I'm pursuing **LL.B (Hons)** at GCUF and a **B.S. in Data Science** at Virtual U
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Legal Research](https://img.shields.io/badge/Legal_Research-8B0000?style=flat)
 ![AI Policy](https://img.shields.io/badge/AI_Policy-6A0DAD?style=flat)
+![Constitutional Law](https://img.shields.io/badge/Constitutional_Law-2C3E50?style=flat)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-1D9E75?style=flat)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidnaeem&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=7F77DD&text_color=444441)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidnaeem&layout=compact&hide_border=true&title_color=534AB7&text_color=444441)
+
+</div>
 
 ---
 
 ## 📚 Currently Working On
 
-- ✍️ Writing on AI governance & human rights law at [Substack](https://hamidnaeem.substack.com/)
-- 🔬 Researching legal tech & policy at Lex Lata Consultants, Islamabad
-- 📊 Deepening data science skills (VU Pakistan, 2024–2028)
+- ✍️ Writing on AI governance & human rights law → [Substack](https://hamidnaeem.substack.com/)
+- 🔬 Researching legal tech & policy at **Lex Lata Consultants**, Islamabad
+- 📊 B.S. Data Science — Virtual University of Pakistan (2024–2028)
 
 ---
 
 ## 🤝 Open To
 
-Research internships · Legal tech projects · AI policy fellowships · Writing collaborations
+`Research Internships` &nbsp; `Legal Tech Projects` &nbsp; `AI Policy Fellowships` &nbsp; `Writing Collaborations`
 
 ---
 
-## 📬 Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidnaeemadvocate)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://hamidnaeem.substack.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
-
----
+<div align="center">
 
 *"Law without data is blind. Data without law is dangerous."*
+
+</div>
