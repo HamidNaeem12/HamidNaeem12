@@ -2,125 +2,220 @@
 
 # Muhammad Hamid Naeem
 
-**AI Governance & Legal Tech · LL.B (Hons) + B.S. Data Science · Published Author**
+### AI Governance Researcher · Legal Technologist · LL.B (Hons) + Data Science Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidnaeemadvocate)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://digitalgavel.substack.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=Hamidnaeem12&color=534AB7&style=flat)](https://github.com/Hamidnaeem12)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=750&lines=Law+%C3%97+Data+%C3%97+Artificial+Intelligence;Building+at+the+intersection+of+policy+and+technology;Future+AI+Governance+%26+Legal+Tech+Professional" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidnaeemadvocate)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://digitalgavel.substack.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-╔══════════════════════════════════════════════════════╗
-║   Law without data is blind.                         ║
-║   Data without law is dangerous.                     ║
-╚══════════════════════════════════════════════════════╝
+
+> ### “Law without data is blind. Data without law is dangerous.”
+
 </div>
-
-> Most law students don't know Python. Most data scientists don't know constitutional law.
-> I'm building at that intersection — **deliberately.**
-
-I'm pursuing **LL.B (Hons)** at GCUF and a **B.S. in Data Science** at Virtual University of Pakistan. The next generation of AI regulation, legal tech, and public policy will be written by people who understand **both** systems.
 
 ---
 
-## 📊 At a Glance
+# 🧠 Mission
+
+I work at the intersection of **law, data, and artificial intelligence**.
+
+My interests include:
+- AI governance & regulation
+- legal technology
+- constitutional analysis
+- public policy
+- and data-driven regulatory systems
+
+I aim to contribute toward responsible AI systems through research, legal analysis, and technology-driven policy thinking.
+
+---
+
+# ⚖️ Legal & Policy Expertise
 
 <div align="center">
 
-| 🌍 **4** Jurisdictions | ⚖️ **570+** Platform Members | 📖 **97** Pages Published | 🎓 **2** Degrees In Progress |
-|:---:|:---:|:---:|:---:|
-
-</div>
-🇵🇰 Pakistan ──── Home base · GCUF + Lex Lata Consultants
-🇺🇸 USA ────────── US AI policy · regulatory exposure
-🇮🇳 India ──────── Comparative law & South Asian frameworks
-🇦🇪 UAE ────────── Gulf legal system · within first 2 years of law school
----
-
-## 🛠️ Skill Depth
-AI Governance     ████████████████████████░░   92%
-Legal Research    ████████████████████████░░   90%
-Constitutional    ███████████████████████░░░   88%
-Policy Writing    █████████████████████░░░░░   85%
-Data Analytics    ██████████████████░░░░░░░░   75%
-Python            █████████████████░░░░░░░░░   70%
----
-
-## 🚀 Highlights
-
-| | |
+| Area | Focus |
 |---|---|
-| 📖 **Published Author** | *Your First Legal Connection* — 97 pages, Amazon Kindle & Paperback |
-| ⚖️ **Founder · Veritas & Vows** | Legal knowledge platform · 570+ professionals in under 9 months |
-| 🌍 **4 Jurisdictions** | Pakistan, USA, India & UAE — within first 2 years of law school |
-| 📜 **AI Policy Co-Author** | Cross-jurisdictional US & EU AI governance analysis |
-| 🎓 **Certified** | Google (Data Analytics, Prompting Essentials) · McKinsey & Co. |
-
----
-
-## 📅 Timeline
-2024 ──● B.S. Data Science starts — Virtual University of Pakistan
-│
-● AI Policy paper co-authored — US & EU comparative analysis
-│
-● Founder — Veritas & Vows (570+ members in 9 months)
-│
-● Internships across 4 jurisdictions (PK · US · IN · UAE)
-│
-now ───● Researcher — Lex Lata Consultants, Islamabad
----
-
-## 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
-![Legal Research](https://img.shields.io/badge/Legal_Research-8B0000?style=flat)
-![AI Policy](https://img.shields.io/badge/AI_Policy-534AB7?style=flat)
-![Constitutional Law](https://img.shields.io/badge/Constitutional_Law-2C3E50?style=flat)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-1D9E75?style=flat)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamidnaeem12&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=7F77DD&text_color=444441)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidnaeem12&layout=compact&hide_border=true&title_color=534AB7&text_color=444441)
+| Constitutional Law | Judicial systems · constitutional interpretation |
+| AI Governance | Algorithmic accountability · AI regulation |
+| Legal Research | Case analysis · comparative legal systems |
+| Policy Writing | Regulatory analysis · governance frameworks |
+| Human Rights & Tech | Emerging technology impacts |
+| Comparative Law | Pakistan · US · India · UAE |
 
 </div>
 
 ---
 
-## 📚 Currently Working On
+# 📊 Technical & Data Skills
 
-- ✍️ Writing on AI governance & human rights → [Digital Gavel on Substack](https://digitalgavel.substack.com/)
-- 🔬 Legal tech & policy research at **Lex Lata Consultants**, Islamabad
-- 📊 B.S. Data Science — Virtual University of Pakistan (2024–2028)
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| Programming | Python · C++ |
+| Data Analytics | Excel · Looker Studio · SQL |
+| Research Workflow | AI-assisted legal research |
+| Documentation | Markdown · GitHub |
+| Analytics | Data visualization · reporting |
+| Productivity | Microsoft Office Suite |
+
+</div>
 
 ---
 
-## 🤝 Open To
+# 🛠️ Tech Stack
 
-`Research Internships` &nbsp; `Legal Tech Projects` &nbsp; `AI Policy Fellowships` &nbsp; `Writing Collaborations`
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
+---
+
+# 🌐 Areas of Interest
+
+<div align="center">
+
+![AI Governance](https://img.shields.io/badge/AI-Governance-534AB7?style=for-the-badge)
+![Legal Tech](https://img.shields.io/badge/Legal-Tech-2C3E50?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data-Science-1D9E75?style=for-the-badge)
+![Constitutional Law](https://img.shields.io/badge/Constitutional-Law-8B0000?style=for-the-badge)
+![Public Policy](https://img.shields.io/badge/Public-Policy-444444?style=for-the-badge)
+
+</div>
+
+---
+
+# 📈 Professional Snapshot
+
+<div align="center">
+
+| Achievement | Impact |
+|---|---|
+| 📖 Published Author | *Your First Legal Connection* |
+| ⚖️ Legal Research Experience | Lex Lata Consultants |
+| 🌍 Comparative Legal Exposure | Pakistan · USA · India · UAE |
+| 🎓 Dual Degree Path | LL.B (Hons) + B.S. Data Science |
+| 📜 Certifications | Google · McKinsey & Company |
+| 🤝 Community Building | Veritas & Vows platform |
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+- 🔬 AI governance and regulatory research
+- 📚 LL.B (Hons) — Government College University Faisalabad
+- 📊 B.S. Data Science — Virtual University of Pakistan
+- ✍️ Writing on AI governance & legal technology
+- ⚖️ Research work with Lex Lata Consultants
+
+---
+
+# 📂 Featured Projects
+
+### ⚖️ AI Governance Tracker
+Comparative AI regulatory framework research across multiple jurisdictions.
+
+### 📊 Constitutional Law Dataset
+Structured legal data and constitutional case analytics.
+
+### 🤖 Legal Document Analyzer
+Python-powered legal summarization and research assistance system.
+
+### 📚 Veritas & Vows Archive
+Legal education, policy discussions, and professional engagement.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamidnaeem12&show_icons=true&hide_border=true&title_color=534AB7&icon_color=7F77DD" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidnaeem12&layout=compact&hide_border=true&title_color=534AB7" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidnaeem12&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Profile Metrics
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hamidnaeem12&theme=flat&no-frame=true&margin-w=10&row=1" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidnaeem12&hide_border=true" />
+
+</div>
+
+---
+
+# 🧭 Research Domains
+
+<div align="center">
+
+```text
+AI GOVERNANCE        ████████████████
+LEGAL TECHNOLOGY     ██████████████
+CONSTITUTIONAL LAW   █████████████
+DATA ANALYTICS       ██████████
+PUBLIC POLICY        ███████████
+```
+
+</div>
+
+---
+
+# 🤝 Open To
+
+<div align="center">
+
+`AI Governance Research`
+`Legal Tech Projects`
+`Policy Fellowships`
+`Research Collaborations`
+`Open Source Legal Innovation`
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Law without data is blind. Data without law is dangerous."*
+### Connect With Me
 
-**[LinkedIn](https://www.linkedin.com/in/hamidnaeemadvocate) · [Substack](https://digitalgavel.substack.com/) · [Email](mailto:hamidnaeem2223ab@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamidnaeemadvocate)
+[![Substack](https://img.shields.io/badge/Substack-Read-orange?style=flat-square&logo=substack)](https://digitalgavel.substack.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hamidnaeem2223ab@gmail.com)
 
 </div>
-
-
----
-
-## 🗺️ Jurisdictions Interned
