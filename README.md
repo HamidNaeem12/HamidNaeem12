@@ -148,9 +148,9 @@ Legal education, policy discussions, and professional engagement.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamidnaeem12&show_icons=true&hide_border=true&title_color=534AB7&icon_color=7F77DD" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamidNaeem12&show_icons=true&hide_border=true&title_color=534AB7&icon_color=7F77DD" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidnaeem12&layout=compact&hide_border=true&title_color=534AB7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidNaeem12&layout=compact&hide_border=true&title_color=534AB7" />
 
 </div>
 
@@ -160,7 +160,7 @@ Legal education, policy discussions, and professional engagement.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidnaeem12&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamidNaeem12&hide_border=true&area=true" />
 
 </div>
 
@@ -170,11 +170,11 @@ Legal education, policy discussions, and professional engagement.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamidnaeem12&theme=flat&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=HamidNaeem12&theme=flat&no-frame=true&margin-w=10&row=1" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidnaeem12&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidNaeem12&hide_border=true" />
 
 </div>
 
