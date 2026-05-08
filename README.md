@@ -5,9 +5,9 @@
 **AI Governance & Legal Tech · LL.B (Hons) + B.S. Data Science · Published Author**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidnaeemadvocate)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://hamidnaeem.substack.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://digitalgavel.substack.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=hamidnaeem&color=7F77DD&style=flat)](https://github.com/hamidnaeem)
+[![Profile views](https://komarev.com/ghpvc/?username=Hamidnaeem12&color=7F77DD&style=flat)](https://github.com/Hamidnaeem12)
 
 </div>
 
@@ -49,9 +49,8 @@ I'm pursuing **LL.B (Hons)** at GCUF and a **B.S. in Data Science** at Virtual U
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamidnaeem&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=7F77DD&text_color=444441)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidnaeem&layout=compact&hide_border=true&title_color=534AB7&text_color=444441)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamidnaeem12&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=7F77DD&text_color=444441)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidnaeem12&layout=compact&hide_border=true&title_color=534AB7&text_color=444441)
 
 </div>
 
@@ -59,7 +58,7 @@ I'm pursuing **LL.B (Hons)** at GCUF and a **B.S. in Data Science** at Virtual U
 
 ## 📚 Currently Working On
 
-- ✍️ Writing on AI governance & human rights law → [Substack](https://hamidnaeem.substack.com/)
+- ✍️ Writing on AI governance & human rights law → [Substack](https://digitalgavel.substack.com/)
 - 🔬 Researching legal tech & policy at **Lex Lata Consultants**, Islamabad
 - 📊 B.S. Data Science — Virtual University of Pakistan (2024–2028)
 
