@@ -19,14 +19,34 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: HamidNaeem12
-          SETTING_JSON: |
-            {
-              "githubUserName": "HamidNaeem12",
-              "startForegroundColor": "#534AB7",
-              "endForegroundColor": "#1D9E75",
-              "backgroundColor": "#0d0d12",
-              "type": "gitHub"
-            }
+
+      - name: Commit & Push
+        run: |
+          git config user.email "hamidnaeem2223ab@gmail.com"
+          git config user.name "HamidNaeem12"
+          git add -A .
+          git diff --cached --quiet || git commit -m "chore: regen 3D contribution calendar"
+          git pushname: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HamidNaeem12
 
       - name: Commit & Push
         run: |
