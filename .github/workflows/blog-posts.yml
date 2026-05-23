@@ -1,0 +1,19 @@
+name: Auto-update Latest Substack Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://digitalgavel.substack.com/feed"
+          max_post_count: 3
+          readme_path: ./README.md
+          template: "- 📡 [$title]($url) — *$date*"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
