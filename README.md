@@ -2,17 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:534AB7,100:1D9E75&height=200&section=header&text=MUHAMMAD%20HAMID%20NAEEM&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Lawyer%20%C2%B7%20AI%20Governance%20%C2%B7%20Data%20Science&descAlignY=58&descSize=16&descFontColor=AFA9EC&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=534AB7&center=true&vCenter=true&width=800&lines=Counsel+of+Record+%E2%80%94+Islamabad+High+Court;AI+Governance+Analyst+%7C+South+Asia+%26+Beyond;Where+a+statute+meets+a+model+card%2C+I+read+both.;LL.B+(Hons)+%C3%97+B.S.+Data+Science+%7C+Dual+Degree;Building+the+legal+infrastructure+for+the+AI+era." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=534AB7&center=true&vCenter=true&width=800&lines=Counsel+of+Record+%E2%80%94+Islamabad+High+Court;AI+Governance+Analyst+%7C+South+Asia+%26+Beyond;Where+a+statute+meets+a+model+card%2C+I+read+both.;LL.B+(Hons)+%C3%97+B.S.+Data+Science+%7C+Dual+Degree;Building+the+legal+infrastructure+for+the+AI+era." />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/hamidnaeem.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://hamidnaeem.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidnaeemadvocate)
-[![The Digital Gavel](https://img.shields.io/badge/The_Digital_Gavel-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://digitalgavel.substack.com)
+[![Substack](https://img.shields.io/badge/The_Digital_Gavel-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://digitalgavel.substack.com)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
 
 <br/>
@@ -50,14 +46,14 @@
 ## `◈ IDENTITY MATRIX`
 
 ```yaml
-# /etc/hamid/identity.yaml  —  last updated: 2026
+# /etc/hamid/identity.yaml  —  2026
 
 operator       : Muhammad Hamid Naeem
 clearance      : Counsel of Record — Islamabad High Court
 affiliation    : Lex Lata Consultants & Law Chambers · Islamabad
 jurisdiction   : Pakistan · United States · UAE · India
 coordinates    : 33.7294° N, 73.0931° E  [Islamabad, PK]
-local_time     : PKT (UTC+5)  ·  ping before midnight
+local_time     : PKT (UTC+5)
 
 education:
   primary      : LL.B (Hons) — GCUF              [2024 → 2028]
@@ -71,8 +67,8 @@ stack:
 languages      : [English, Urdu, Punjabi, Hindi]
 status         : open_to_fellowships && research_collaborations == true
 
-assert         : law_without_data == blind
-assert         : data_without_law == dangerous
+assert         : law_without_data  == blind
+assert         : data_without_law  == dangerous
 ```
 
 ---
@@ -81,7 +77,7 @@ assert         : data_without_law == dangerous
 
 <div align="center">
 
-![Availability](https://img.shields.io/badge/Status-Open_to_Opportunities-1D9E75?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-1D9E75?style=flat-square)
 ![Timezone](https://img.shields.io/badge/Timezone-PKT_UTC%2B5-534AB7?style=flat-square)
 ![Court](https://img.shields.io/badge/IHC-Counsel_of_Record-7F77DD?style=flat-square)
 ![Research](https://img.shields.io/badge/AI_Governance-Active_Research-3C3489?style=flat-square)
@@ -110,10 +106,10 @@ assert         : data_without_law == dangerous
 
 **`[PROD]`** &nbsp; **Land Revenue Act AI Assistant**
 > Full-stack AI legal chatbot · Groq API (Llama-3.3-70B) · Vercel serverless · Custom JS frontend
-> Embedded at [hamidnaeem.me](https://hamidnaeem.me) · Punjab Land Revenue Act 1967 · 184 sections indexed
+> [hamidnaeem.me](https://hamidnaeem.me) · Punjab Land Revenue Act 1967 · 184 sections indexed
 
 **`[LIVE]`** &nbsp; **The Digital Gavel** · [digitalgavel.substack.com](https://digitalgavel.substack.com)
-> Newsletter · AI governance, digital rights & international law · South Asia focus · auto-updates below ↓
+> Newsletter · AI governance, digital rights & international law · South Asia focus
 
 **`[PUB]`** &nbsp; **Your First Legal Connection** · [Amazon →](https://www.amazon.in/dp/B0FKZBX5ZT)
 > 97-page published guide · professional networking for law students · self-published end-to-end
@@ -123,29 +119,6 @@ assert         : data_without_law == dangerous
 
 **`[RES]`** &nbsp; **US–EU AI Governance: Comparative Analysis**
 > Co-authored policy paper · Legal Pathway Society (US) · Available on request
-
----
-
-## `◈ LATEST FROM THE DIGITAL GAVEL`
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-📡 [Follow on Substack →](https://digitalgavel.substack.com)
-
----
-
-## `◈ CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamidNaeem12/HamidNaeem12/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamidNaeem12/HamidNaeem12/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/HamidNaeem12/HamidNaeem12/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -241,21 +214,6 @@ JURISDICTION LOG ─────────────────────
 
 ---
 
-## `◈ CERTIFICATIONS`
-
-```
-  ✦  Google Data Analytics Professional Certificate
-  ✦  Google Prompting Essentials
-  ✦  McKinsey Forward Program — Strategic Leadership
-  ✦  Project Management: The Basics — UC Irvine / Coursera
-  ✦  C++ Essentials — Programming & Computational Logic
-  ✦  Aspire Leaders Program — Oct–Dec 2025
-
-  Memberships: American Bar Association · American Psychological Association
-```
-
----
-
 ## `◈ GITHUB ANALYTICS`
 
 <div align="center">
@@ -276,13 +234,18 @@ JURISDICTION LOG ─────────────────────
 
 ---
 
-## `◈ TROPHIES`
+## `◈ CERTIFICATIONS`
 
-<div align="center">
+```
+  ✦  Google Data Analytics Professional Certificate
+  ✦  Google Prompting Essentials
+  ✦  McKinsey Forward Program — Strategic Leadership
+  ✦  Project Management: The Basics — UC Irvine / Coursera
+  ✦  C++ Essentials — Programming & Computational Logic
+  ✦  Aspire Leaders Program — Oct–Dec 2025
 
-<img src="https://github-profile-trophy.vercel.app/?username=HamidNaeem12&theme=darkhub&no-frame=true&margin-w=12&row=1&column=6" />
-
-</div>
+  Memberships: American Bar Association · American Psychological Association
+```
 
 ---
 
