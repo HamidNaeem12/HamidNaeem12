@@ -1,16 +1,19 @@
 <div align="center">
 
-# Muhammad Hamid Naeem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:534AB7,100:1D9E75&height=200&section=header&text=MUHAMMAD%20HAMID%20NAEEM&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Lawyer%20%C2%B7%20AI%20Governance%20%C2%B7%20Data%20Science&descAlignY=58&descSize=16&descFontColor=AFA9EC&animation=fadeIn" />
 
-### AI Governance Researcher · Legal Technologist · LL.B (Hons) + Data Science Student
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=750&lines=Law+%C3%97+Data+%C3%97+Artificial+Intelligence;Building+at+the+intersection+of+policy+and+technology;Future+AI+Governance+%26+Legal+Tech+Professional" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=534AB7&center=true&vCenter=true&width=800&lines=Counsel+of+Record+%E2%80%94+Islamabad+High+Court;AI+Governance+Analyst+%7C+South+Asia+%26+Beyond;Where+a+statute+meets+a+model+card%2C+I+read+both.;LL.B+(Hons)+%C3%97+B.S.+Data+Science+%7C+Dual+Degree;Building+the+legal+infrastructure+for+the+AI+era." />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidnaeemadvocate)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://digitalgavel.substack.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
+[![Portfolio](https://img.shields.io/badge/hamidnaeem.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://hamidnaeem.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidnaeemadvocate)
+[![The Digital Gavel](https://img.shields.io/badge/The_Digital_Gavel-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://digitalgavel.substack.com)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidnaeem2223ab@gmail.com)
 
 </div>
 
@@ -18,193 +21,223 @@
 
 <div align="center">
 
-> ### “Law without data is blind. Data without law is dangerous.”
-
-</div>
-
----
-
-# 🧠 Mission
-
-I work at the intersection of **law, data, and artificial intelligence**.
-
-My interests include:
-- AI governance & regulation
-- legal technology
-- constitutional analysis
-- public policy
-- and data-driven regulatory systems
-
-I aim to contribute toward responsible AI systems through research, legal analysis, and technology-driven policy thinking.
-
----
-
-# ⚖️ Legal & Policy Expertise
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| Constitutional Law | Judicial systems · constitutional interpretation |
-| AI Governance | Algorithmic accountability · AI regulation |
-| Legal Research | Case analysis · comparative legal systems |
-| Policy Writing | Regulatory analysis · governance frameworks |
-| Human Rights & Tech | Emerging technology impacts |
-| Comparative Law | Pakistan · US · India · UAE |
-
-</div>
-
----
-
-# 📊 Technical & Data Skills
-
-<div align="center">
-
-| Domain | Technologies |
-|---|---|
-| Programming | Python · C++ |
-| Data Analytics | Excel · Looker Studio · SQL |
-| Research Workflow | AI-assisted legal research |
-| Documentation | Markdown · GitHub |
-| Analytics | Data visualization · reporting |
-| Productivity | Microsoft Office Suite |
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=python)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
-</div>
-
----
-
-# 🌐 Areas of Interest
-
-<div align="center">
-
-![AI Governance](https://img.shields.io/badge/AI-Governance-534AB7?style=for-the-badge)
-![Legal Tech](https://img.shields.io/badge/Legal-Tech-2C3E50?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data-Science-1D9E75?style=for-the-badge)
-![Constitutional Law](https://img.shields.io/badge/Constitutional-Law-8B0000?style=for-the-badge)
-![Public Policy](https://img.shields.io/badge/Public-Policy-444444?style=for-the-badge)
-
-</div>
-
----
-
-# 📈 Professional Snapshot
-
-<div align="center">
-
-| Achievement | Impact |
-|---|---|
-| 📖 Published Author | *Your First Legal Connection* |
-| ⚖️ Legal Research Experience | Lex Lata Consultants |
-| 🌍 Comparative Legal Exposure | Pakistan · USA · India · UAE |
-| 🎓 Dual Degree Path | LL.B (Hons) + B.S. Data Science |
-| 📜 Certifications | Google · McKinsey & Company |
-| 🤝 Community Building | Veritas & Vows platform |
-
-</div>
-
----
-
-# 📌 Current Focus
-
-- 🔬 AI governance and regulatory research
-- 📚 LL.B (Hons) — Government College University Faisalabad
-- 📊 B.S. Data Science — Virtual University of Pakistan
-- ✍️ Writing on AI governance & legal technology
-- ⚖️ Research work with Lex Lata Consultants
-
----
-
-# 📂 Featured Projects
-
-### ⚖️ AI Governance Tracker
-Comparative AI regulatory framework research across multiple jurisdictions.
-
-### 📊 Constitutional Law Dataset
-Structured legal data and constitutional case analytics.
-
-### 🤖 Legal Document Analyzer
-Python-powered legal summarization and research assistance system.
-
-### 📚 Veritas & Vows Archive
-Legal education, policy discussions, and professional engagement.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamidNaeem12&show_icons=true&hide_border=true&title_color=534AB7&icon_color=7F77DD" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidNaeem12&layout=compact&hide_border=true&title_color=534AB7" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamidNaeem12&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Profile Metrics
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HamidNaeem12&theme=flat&no-frame=true&margin-w=10&row=1" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidNaeem12&hide_border=true" />
-
-</div>
-
----
-
-# 🧭 Research Domains
-
-<div align="center">
-
-```text
-AI GOVERNANCE        ████████████████
-LEGAL TECHNOLOGY     ██████████████
-CONSTITUTIONAL LAW   █████████████
-DATA ANALYTICS       ██████████
-PUBLIC POLICY        ███████████
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   "Most people in AI governance come from one side of the fence —        ║
+║    lawyers who don't touch data, or technologists who've never           ║
+║    read a statute. I work in the gap. That's where the problems live."   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-# 🤝 Open To
+## `◈ IDENTITY MATRIX`
+
+```yaml
+# /etc/hamid/identity.yaml
+
+operator       : Muhammad Hamid Naeem
+clearance      : Counsel of Record — Islamabad High Court
+affiliation    : Lex Lata Consultants & Law Chambers · Islamabad
+jurisdiction   : Pakistan · United States · UAE · India
+coordinates    : 33.7294° N, 73.0931° E  [Islamabad, PK]
+
+education:
+  primary      : LL.B (Hons) — GCUF              [2024 → 2028]
+  parallel     : B.S. Data Science — VU Pakistan  [2024 → 2028]
+
+stack:
+  legal        : [constitutional_litigation, AI_regulatory_compliance, policy_drafting]
+  technical    : [Python, data_analytics, LLM_integration, Groq_API, Vercel]
+  governance   : [EU_AI_Act, US_exec_frameworks, PECA, cross_jurisdictional_analysis]
+
+languages      : [English, Urdu, Punjabi, Hindi]
+status         : open_to_fellowships && research_collaborations == true
+```
+
+---
+
+## `◈ OPERATIONAL DOMAINS`
 
 <div align="center">
 
-`AI Governance Research`
-`Legal Tech Projects`
-`Policy Fellowships`
-`Research Collaborations`
-`Open Source Legal Innovation`
+| `01` AI GOVERNANCE | `02` CONSTITUTIONAL LAW | `03` LEGAL TECH |
+|:---:|:---:|:---:|
+| EU AI Act · US Frameworks | IHC Writ Petitions | AI-powered legal tools |
+| Regulatory gap analysis | Fundamental rights | Document automation |
+| South Asian AI policy | NADRA/identity disputes | LLM + legal datasets |
+| Compliance frameworks | Civil & family litigation | Python · dashboards |
+
+</div>
+
+---
+
+## `◈ ACTIVE DEPLOYMENTS`
+
+<br/>
+
+**`[PROD]`** &nbsp; **Land Revenue Act AI Assistant**
+> Full-stack AI legal chatbot · Groq API (Llama-3.3-70B) · Vercel serverless · Custom JS frontend
+> Embedded at [hamidnaeem.me](https://hamidnaeem.me) · Punjab Land Revenue Act 1967 · 184 sections indexed
+
+**`[LIVE]`** &nbsp; **The Digital Gavel** · [digitalgavel.substack.com](https://digitalgavel.substack.com)
+> Newsletter on AI governance, digital rights & international law · South Asia focus
+
+**`[PUB]`** &nbsp; **Your First Legal Connection** · [Amazon →](https://www.amazon.in/dp/B0FKZBX5ZT)
+> 97-page published guide · professional networking for law students · self-published end-to-end
+
+**`[RUN]`** &nbsp; **Veritas & Vows** · [LinkedIn →](https://linkedin.com/company/veritas-and-vows)
+> Legal knowledge platform · 570+ readers · Pakistan · US · UK · 5-person editorial team
+
+**`[RES]`** &nbsp; **US–EU AI Governance: Comparative Analysis**
+> Co-authored policy paper · Legal Pathway Society (US) · Available on request
+
+---
+
+## `◈ TECHNICAL STACK`
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+
+<br/>
+
+![AI Governance](https://img.shields.io/badge/AI_Governance-534AB7?style=flat-square)
+![EU AI Act](https://img.shields.io/badge/EU_AI_Act-3C3489?style=flat-square)
+![Constitutional Law](https://img.shields.io/badge/Constitutional_Law-7F77DD?style=flat-square)
+![Groq API](https://img.shields.io/badge/Groq_API-1D9E75?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0F6E56?style=flat-square)
+![Legal Tech](https://img.shields.io/badge/Legal_Tech-185FA5?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## `◈ MISSION RECORD`
+
+<div align="center">
+
+```
+JURISDICTION LOG ──────────────────────────────────────────────────────
+
+  [2026 → NOW ]  Associate Researcher · Lex Lata Consultants · Islamabad
+                 IHC Counsel of Record · Writ petitions · Constitutional matters
+
+  [2025 → NOW ]  Founder · Veritas & Vows · 570+ readers · 3 continents
+
+  [2025 → NOW ]  Author · Your First Legal Connection · Amazon Global
+
+  [2025       ]  AI Governance Research Intern · Legal Pathway Society · USA ⟨Remote⟩
+                 US–EU AI governance comparative analysis · 17-intern international cohort
+
+  [2025       ]  Legal Intern · NyayaSarthak · New Delhi, India
+                 Property · family law · civil recovery drafting
+
+  [2025       ]  Data Analytics Intern · Excelerate · Dubai, UAE ⟨Remote⟩
+                 3 datasets · Excel + Looker Studio capstone dashboard
+
+  [2025       ]  Legal Assistant · Haji Law Chamber · Punjab, Pakistan
+                 19+ clients · family suits · criminal procedure
+
+────────────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+---
+
+## `◈ IMPACT METRICS`
+
+<div align="center">
+
+| Metric | Value |
+|:---|:---:|
+| 📡 Platform readers (Veritas & Vows) | **570+** |
+| 🌍 Jurisdictions of active practice | **4** |
+| ⚖️ Court documents filed / drafted | **10+** |
+| 📖 Books published | **1** |
+| 🎓 Degrees in parallel | **2** |
+| 🌐 Continents reached | **3** |
+
+</div>
+
+---
+
+## `◈ CERTIFICATIONS`
+
+```
+  ✦  Google Data Analytics Professional Certificate
+  ✦  Google Prompting Essentials
+  ✦  McKinsey Forward Program — Strategic Leadership
+  ✦  Project Management: The Basics — UC Irvine / Coursera
+  ✦  C++ Essentials — Programming & Computational Logic
+  ✦  Aspire Leaders Program — Oct–Dec 2025
+
+  Memberships: American Bar Association · American Psychological Association
+```
+
+---
+
+## `◈ GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HamidNaeem12&show_icons=true&hide_border=true&bg_color=0d0d12&title_color=534AB7&icon_color=7F77DD&text_color=AFA9EC&ring_color=1D9E75" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidNaeem12&layout=compact&hide_border=true&bg_color=0d0d12&title_color=534AB7&text_color=AFA9EC" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidNaeem12&hide_border=true&background=0d0d12&ring=534AB7&fire=1D9E75&currStreakLabel=7F77DD&sideLabels=AFA9EC&dates=AFA9EC&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamidNaeem12&bg_color=0d0d12&color=7F77DD&line=534AB7&point=1D9E75&hide_border=true&area=true&area_color=534AB7" />
+
+</div>
+
+---
+
+## `◈ TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HamidNaeem12&theme=darkhub&no-frame=true&margin-w=12&row=1&column=6" />
+
+</div>
+
+---
+
+## `◈ OPEN TO`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   AI Governance Fellowships        Research Collaborations      │
+│   Legal Tech Projects              Policy Advisory Work         │
+│   Cross-jurisdictional Research    Open Source Legal Tools      │
+│                                                                 │
+│   Reply time: 24–48 hours                                       │
+│   hamidnaeem2223ab@gmail.com   ·   +92 309 4498176              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -212,10 +245,6 @@ PUBLIC POLICY        ███████████
 
 <div align="center">
 
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamidnaeemadvocate)
-[![Substack](https://img.shields.io/badge/Substack-Read-orange?style=flat-square&logo=substack)](https://digitalgavel.substack.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hamidnaeem2223ab@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:534AB7,100:0a0a0f&height=120&section=footer&text=Law%20%C3%97%20Data%20%C3%97%20Governance&fontSize=18&fontColor=AFA9EC&fontAlignY=65&animation=fadeIn" />
 
 </div>
