@@ -1,197 +1,72 @@
-<div align="center">
+div align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:050506,50:1A1730,100:0F3D30&height=160&section=header&text=HAMID%20NAEEM&fontSize=40&fontColor=EDEBFF&fontAlignY=45&desc=AI%20governance%20for%20jurisdictions%20that%20inherited%20the%20rules&descAlignY=66&descSize=13&descFontColor=8B85D6&animation=fadeIn" />
+AI governance for the jurisdictions that inherited the rules instead of writing them.
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:050506,50:1A1730,100:0F3D30&height=200&section=header&text=HAMID%20NAEEM&fontSize=42&fontColor=EDEBFF&fontAlignY=38&desc=Counsel%20on%20record%20%C2%B7%20also%20writes%20the%20code%20nobody%20asked%20a%20lawyer%20to%20write&descAlignY=58&descSize=14&descFontColor=8B85D6&animation=fadeIn" />
+LL.B (Hons), 2028 · B.S. Data Science, in progress · Islamabad
 
-<br/>
-
-`FILE NO. LLB/DS-2026` · `VENUE: Islamabad High Court + localhost:3000` · `STATUS: ADJOURNED FOR CODE REVIEW`
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/hamidnaeem.me-050506?style=for-the-badge&logoColor=white)](https://hamidnaeem.me)
-[![LinkedIn](https://img.shields.io/badge/Counsel_Profile-1A1730?style=for-the-badge&logo=linkedin&logoColor=8B85D6)](https://linkedin.com/in/hamidnaeemadvocate)
-[![The Digital Gavel](https://img.shields.io/badge/The_Digital_Gavel-0F3D30?style=for-the-badge&logoColor=white)](https://digitalgavel.substack.com)
-[![Email](https://img.shields.io/badge/hamidnaeemllb%40gmail.com-050506?style=for-the-badge&logo=gmail&logoColor=8B85D6)](mailto:hamidnaeemllb@gmail.com)
+Portfolio LinkedIn The Digital Gavel Email
 
 </div>
+01 — THE PROBLEM I WORK ON
+The EU AI Act, the US executive frameworks and the OECD principles have one thing in common: they were drafted by people who assumed they would also be the ones applying them. Pakistan — and most of the world — applies them anyway. In translation, on a two-year delay, without the regulators, registries or litigation capacity the text quietly presumes.
+
+That gap is my subject. Not as commentary. As work.
+
+I come at it two ways: writing about what breaks when a framework crosses a border, and building the tools that let a practitioner apply a specific statute faster than they could by hand. The first produces positions. The second proves they're implementable. Neither is much use alone.
 
 <br/>
+02 — ON THE RECORD
+The tools. Four deployed, each scoped to one statute with one named source — never general legal advice with a friendly font.
 
-> *Brussels writes the rules. Washington writes the rules. Islamabad inherits both, on a two-year delay, in translation — and still has to make them work. I don't sit next to that gap and comment on it. I sit inside it and file paperwork.*
+Land Revenue Act AI Counsel — reads all 184 sections of the Punjab Land Revenue Act 1967 and answers in seconds what costs a junior associate an hour of page-flipping. Groq / Llama-3.3-70B, serverless on Vercel.
+Limitation Act Engine, 1908 — all 183 articles, searchable, with s.12 / s.14 exclusion logic and a timeline view. Every litigator carries this Act in their head; this is the version you don't have to trust their memory for.
+EU AI Act Compliance Checker — document upload, jurisdiction and sector selection, structured report with Article-level citations. Built for the question every non-EU team eventually panics about: does this apply to us? The answer is usually "partially," and the report says which part.
+The Field Guide — a working glossary of AI-governance terms, including a proposed Contextual Adequacy test (see 03).
+The writing. The Digital Gavel — a newsletter on AI governance, legal tech and digital rights, 570+ subscribers. Plus a monograph in progress, Regulating Intelligence at the Periphery.
 
-<br/>
-
----
-
-### `PRELIMINARY STATEMENT`
-
-I argue writ petitions before the Islamabad High Court in the morning. By evening I'm the one debugging the retrieval pipeline that's supposed to make that argument faster next time. These are, on paper, two different careers. In practice they're one bad habit — reading systems until you understand where they break — pointed at two different rulebooks.
-
-```
-role          Associate Researcher, Lex Lata Consultants & Law Chambers — Islamabad
-title         AI Governance Analyst — regulatory frameworks for economies that
-              didn't build the AI they're now expected to govern
-reading for   LL.B (Hons), Government College University Faisalabad — class of 2028
-reading for   B.S. Data Science, Virtual University of Pakistan
-jurisdiction  PK primary · cross-filed in US / EU / UAE / IN
-thesis        AI governance for economies that inherited the rules instead of writing them
-```
-
-<sub>¹ — Yes, both degrees are still in progress. No, that is not a typo, it's a scheduling problem I've mostly solved.</sub>
+The practice. Writ petitions under Article 199 before the Islamabad High Court; NADRA and DGIP documentation disputes; a CDA enforcement matter under ss. 49-B / 49-C; research on High Court enforcement under Articles 189, 190 and 201 following the 26th and 27th Amendments.
 
 <br/>
+03 — THE POSITION
+A regulation is adequate only if the state applying it can staff it, fund it, and litigate it.
 
-### `MOTIONS CURRENTLY BEFORE THE COURT`
+Call it Contextual Adequacy. By that test, most transplanted AI governance fails — and it fails on capacity, not on substance. The drafting assumed an enforcement apparatus that exists in Brussels and Washington and nowhere else. The novel / non-novel capability line, in particular, is unusable for a state that had no part in drawing it: it asks a regulator to measure distance from a frontier it was never standing on.
 
-```diff
-+ drafting    Writ petitions, Art. 199 — NADRA / DGIP documentation disputes
-+ reviewing   CDA enforcement matter, Sections 49-B / 49-C — Islamabad
-+ researching Arts. 189, 190, 201 — High Court enforcement, post-26th/27th Amendment
-+ writing     "Regulating Intelligence at the Periphery" — monograph on AI governance
-              in emerging economies, on the novel vs. non-novel capability line and
-              what it means for states that were never in the room
-+ publishing  The Digital Gavel — AI governance, legal tech, digital rights
-! pending     Sleep, tentatively, pending motion for continuance
-```
+That argument is what Regulating Intelligence at the Periphery is for. If you're writing on the same problem, we should be talking.
 
 <br/>
+04 — WHAT I'VE DONE
+Year	Role	Where
+2026 —	Associate Researcher — Art. 199 petitions, IHC submissions, contempt and civil recovery, client-facing regulatory proposals	Lex Lata Consultants & Law Chambers, Islamabad
+2026 —	Intern	Office of the Federal Tax Ombudsman, Islamabad
+2026 —	Mooter, 3rd Intra-Departmental LMCC (Criminal Division) — argued for the Appellant and wrote Respondent briefs in Rayyan Qadir v. The State: post-mortem delay, suspicion-based conviction, admissibility of police confessions and s.161 statements	GCUF
+2025 —	Founder and writer	The Digital Gavel (f.k.a. Veritas & Vows)
+2025 —	Author, Your First Legal Connection	Self-published, Amazon Global
+2025 —	AI Governance Research Intern — comparative US–EU analysis, cohort of 17	Legal Pathway Society (remote, USA)
+2025 —	Legal Intern — property, family law, civil recovery drafting	NyayaSarthak, New Delhi
+2025 —	Data Analytics Intern — Looker Studio capstone across three datasets	Excelerate (remote, UAE)
+2025 —	Legal Assistant — 19+ clients, family suits, criminal procedure	Haji Law Chamber, Punjab
 
-### `EXHIBITS ON THE RECORD`
 
-Not a portfolio in the "trust me it works" sense. Things that are actually deployed, actually indexed, and will actually answer a question if you ask it one.
+Working in: Python · Pandas · JavaScript · Groq API · Vercel · Looker Studio · GitHub Pages — plus the statutory material, which is the part that matters.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
+05 — SCOPE
+Nothing here is legal advice, a legal opinion, or a substitute for counsel licensed in your jurisdiction. The tools read a named statute to you faster; they do not tell you what the law is in your case. Interpretations are mine, offered for argument, and every one of them has a citation attached for that reason.
 
-**Exhibit A — Land Revenue Act AI Counsel**
-Groq-backed (Llama-3.3-70B), reads all 184 sections of the Punjab Land Revenue Act 1967 and answers in seconds what would take a junior associate an hour of flipping pages. Deployed serverless on Vercel.
+<br/>
+06 — CONTACT
+hamidnaeemllb@gmail.com
 
-</td>
-<td width="50%" valign="top">
+The briefs I want: AI policy for a jurisdiction that wasn't in the room when the framework was drafted; legal-tech work where the statute is the hard part, not the interface; anything where law and data science both have to be right.
 
-**Exhibit B — Limitation Act, 1908 Calculator**
-All 183 articles, searchable, with s.12/s.14 exclusion logic and timeline visualisation built in. Every litigator keeps a mental cheat-sheet for this Act; this is the version you don't have to trust your memory on.
+Everything else I'll still read. I just won't pretend it's the same case.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Exhibit C — EU AI Act Compliance Checker**
-Document upload, jurisdiction/sector selection, structured compliance report with Article-level citations — built for the exact question every non-EU team eventually panics about: *does this apply to us?* Usually the answer is "partially, and here's why."
-
-</td>
-<td width="50%" valign="top">
-
-**Exhibit D — The Field Guide**
-A working glossary of AI-governance terms, including a proposed "Contextual Adequacy" doctrine for evaluating regulation transplanted into jurisdictions it wasn't written for.
-
-</td>
-</tr>
-</table>
+<sub>Replies land in 24–48h on principle. Urgent things get answered faster, principles notwithstanding.</sub>
 
 <div align="center">
-
-**Exhibit E — The Digital Gavel**
-A newsletter for people tired of AI governance being explained to them once by a lawyer and once by an engineer, badly, by two different people. 570+ readers who'd apparently rather hear it once, correctly.
-
-</div>
-
-<sub>² — Objection: "isn't a chatbot answering legal questions dangerous?" Sustained, partially — which is why every tool above is scoped to a named statute with a named source, not general legal advice with a friendly font.</sub>
-
-<br/>
-
-### `STANDARD OF REVIEW`
-
-```
-AI GOVERNANCE & REGULATION     ██████████  primary jurisdiction — where the writing happens
-CONSTITUTIONAL LITIGATION      ████████░░  active practice — where the billable hours happen
-LEGAL-TECH / LLM SYSTEMS       ███████░░░  in production — where the 1am bugs happen
-CROSS-JURISDICTIONAL LAW       ███████░░░  PK · US · EU · UAE · IN
-DATA SCIENCE                   ██████░░░░  mid-degree, compounding weekly, on purpose
-```
-
-<br/>
-
-### `TOOLS OF RECORD`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-050506?style=for-the-badge&logo=python&logoColor=8B85D6)
-![Pandas](https://img.shields.io/badge/Pandas-1A1730?style=for-the-badge&logo=pandas&logoColor=EDEBFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F3D30?style=for-the-badge&logo=javascript&logoColor=EDEBFF)
-![Vercel](https://img.shields.io/badge/Vercel-050506?style=for-the-badge&logo=vercel&logoColor=8B85D6)
-![Groq](https://img.shields.io/badge/Groq_API-1A1730?style=for-the-badge&logoColor=EDEBFF)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-0F3D30?style=for-the-badge&logo=looker&logoColor=EDEBFF)
-![Excel](https://img.shields.io/badge/Excel-050506?style=for-the-badge&logo=microsoftexcel&logoColor=8B85D6)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-1A1730?style=for-the-badge&logo=github&logoColor=EDEBFF)
+<img src="https://github-readme-stats.vercel.app/api?username=HamidNaeem12&show_icons=true&theme=dark&hide_border=true&bg_color=050506&title_color=8B85D6&icon_color=0F3D30&text_color=EDEBFF" width="46%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidNaeem12&theme=dark&hide_border=true&background=050506&stroke=1A1730&ring=8B85D6&fire=0F3D30&currStreakLabel=EDEBFF" width="46%" />
+LAST REVISED · NOV 2026
 
 </div>
-
-<br/>
-
-### `DOCKET ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HamidNaeem12&show_icons=true&theme=dark&hide_border=true&bg_color=050506&title_color=8B85D6&icon_color=0F3D30&text_color=EDEBFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamidNaeem12&theme=dark&hide_border=true&background=050506&stroke=1A1730&ring=8B85D6&fire=0F3D30&currStreakLabel=EDEBFF" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamidNaeem12&theme=react-dark&bg_color=050506&color=8B85D6&line=0F3D30&point=EDEBFF&hide_border=true" width="97%" />
-
-</div>
-
-<br/>
-
-### `PRIOR PROCEEDINGS`
-
-```
-2026 —      Associate Researcher, Lex Lata Consultants · Islamabad
-            Writ petitions under Art. 199 · IHC written submissions · contempt
-            petitions · civil recovery · client-facing regulatory proposals
-
-2026 —      Intern, Office of the Federal Tax Ombudsman · Islamabad
-
-2026 —      3rd Intra-Departmental LMCC, Criminal Division · GCUF
-            Argued Appellant and prepared Respondent briefs, Rayyan Qadir v. The
-            State — post-mortem delay, suspicion-based conviction, admissibility
-            of police confessions and s.161 statements, discriminatory verdicts
-
-2025 —      Founder, The Digital Gavel (f.k.a. Veritas & Vows) — 570+ readers
-2025 —      Author, "Your First Legal Connection" — self-published, Amazon Global
-2025 —      AI Governance Research Intern, Legal Pathway Society (Remote, USA)
-            Comparative US–EU AI governance analysis · cohort of 17
-2025 —      Legal Intern, NyayaSarthak — New Delhi, India
-            Property, family law, civil recovery drafting
-2025 —      Data Analytics Intern, Excelerate (Remote, UAE)
-            Looker Studio capstone across three datasets
-2025 —      Legal Assistant, Haji Law Chamber — Punjab, Pakistan
-            19+ clients, family suits, criminal procedure
-```
-
-<br/>
-
-### `CLOSING ARGUMENT`
-
-```
-law without data          — blind
-data without law          — dangerous
-governance without either — a press release
-```
-
-If you're building AI policy for a jurisdiction that wasn't in the room when the frameworks were drafted, that's the brief I want. Everything else, I'll still read — I just won't pretend it's the same case.
-
-<br/>
-
-<div align="center">
-
-`hamidnaeemllb@gmail.com` · replies land in 24–48h, not a minute sooner, on principle³
-
-<sub>³ — this is a bit. I do actually reply faster if it's urgent.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F3D30,50:1A1730,100:050506&height=100&section=footer" />
-
-</div>
+Add a block (
